@@ -1,0 +1,2 @@
+# Fyuri
+Special Machine
